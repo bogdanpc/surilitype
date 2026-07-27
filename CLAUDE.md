@@ -1,0 +1,2 @@
+- No rhetorical framing, state each rule once, why-lines only where load-bearing
+- Cut the editorializing — requirements only
